@@ -8,3 +8,7 @@ Git commands for Reference:
    
 3. To edit the previous commit instead of new commit
    * git commit --amend -m "updating new changes in previous commit"
+   
+4. discard any local changes which are not committed in ALL branches and master
+   * git checkout -f
+
