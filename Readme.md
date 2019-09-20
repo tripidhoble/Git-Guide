@@ -3,7 +3,7 @@ Git commands for Reference:
 #### To create new branch and switch to new branch
   * git checkout -b <new_branch_name>
     
-    ** OR
+    OR
   * git branch <new_branch_name>
   * git checkout <new_branch_name>
 
