@@ -1,4 +1,4 @@
-Git commands for Reference:
+### Git commands for Reference:
 
 #### To create new branch and switch to new branch
   * git checkout -b <new_branch_name>
