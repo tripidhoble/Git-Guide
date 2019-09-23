@@ -1,5 +1,8 @@
 ### Git commands for Reference:
 
+#### To set origin 
+  * git remote set-url origin <clone-url-from-gitlab>
+ 
 #### To create new branch and switch to new branch
   * git checkout -b <new_branch_name>
     
