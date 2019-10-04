@@ -21,6 +21,9 @@
    
 #### To edit the previous commit instead of new commit
   * git commit --amend -m "updating new changes in previous commit"
+
+#### To push the changes in local file(whict are commited) on remote
+  * git push origin <branch_name>
    
 #### Discard any local changes which are not committed in ALL branches and master
   * git checkout -f
