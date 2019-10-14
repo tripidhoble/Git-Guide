@@ -27,4 +27,6 @@
    
 #### Discard any local changes which are not committed in ALL branches and master
   * git checkout -f
+#### To delete local branch
+  * git branch -D branch_name
 
