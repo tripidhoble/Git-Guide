@@ -29,4 +29,7 @@
   * git checkout -f
 #### To delete local branch
   * git branch -D branch_name
+ 
+#### To pull a certain branch from GitHub/Remote
+  * git pull origin other-branch
 
