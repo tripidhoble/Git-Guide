@@ -13,7 +13,7 @@
 #### get list of all branches
   * git branch -a
   
-### clone git repo
+#### clone git repo
   * git init
   * git clone <URL>
  
