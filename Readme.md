@@ -15,7 +15,7 @@
   
 #### clone git repo
   * git init
-  * git clone <URL>
+  * git clone <git_repo_url>
  
 #### This creates a new branch new-branch, based on existing-branch.
   * git checkout -b new-branch existing-branch
