@@ -10,6 +10,13 @@
   * git branch <new_branch_name>
   * git checkout <new_branch_name>
 
+#### get list of all branches
+  * git branch -a
+  
+### clone git repo
+  * git init
+  * git clone <URL>
+ 
 #### This creates a new branch new-branch, based on existing-branch.
   * git checkout -b new-branch existing-branch
   
