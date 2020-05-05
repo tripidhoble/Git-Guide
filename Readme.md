@@ -42,4 +42,7 @@
  
 #### To pull a certain branch from GitHub/Remote
   * git pull origin other-branch
+ 
+ #### To discard the commited changes before push
+  * git reset --hard origin/<your-branch-name> 
 
