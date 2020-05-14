@@ -45,4 +45,7 @@
  
  #### To discard the commited changes before push
   * git reset --hard origin/<your-branch-name> 
+ 
+ #### To restore particular commit
+  * git reset --hard <commit-id>
 
