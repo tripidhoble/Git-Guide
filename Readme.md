@@ -49,6 +49,8 @@
  #### To restore particular commit
   * git reset --hard <commit_id>
   
+ #### To create local branch from remote branch
+ git checkout -b myLocalName origin/remoteName
   
   
   
